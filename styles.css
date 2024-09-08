@@ -1,4 +1,3 @@
-
 html { font-size: 1rem; }
 @media screen and (max-width:1920px) { html { font-size: calc(-1.1102230246251565e-16rem + 0.8333333333333335vw); } }
 @media screen and (max-width:1440px) { html { font-size: calc(0.24999999999999994rem + 0.5555555555555556vw); } }
